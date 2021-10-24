@@ -1,1 +1,2 @@
-HW 2: Visualizing interesting datasets
+# HW 2: Visualizing interesting datasets
+Check out the project instructions
