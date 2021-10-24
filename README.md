@@ -7,4 +7,7 @@ Check out the [project instructions](https://github.com/mikeizbicki/cmc-csci040/
 This data is from the class ECON125 at CMC. 
 
 ## Distribution of Student Loan Forgiveness on Earning Deciles 
+
+![Figure 2](Figure_2.png)
+
 I got the data for my plot from this [article](https://www.nber.org/system/files/working_papers/w28175/w28175.pdf).
