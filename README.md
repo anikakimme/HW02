@@ -2,7 +2,9 @@
 Check out the project instructions [here](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)!
 ## Mean Earnings per Hour for Males and Females
 
-<p align="center">![Figure 1](Figure_1.png)</p>
+<p align="center">
+![Figure 1](Figure_1.png)
+</p>
 
 My first graph shows the difference between mean hourly wages for males and females. Mean hourly wages is shown on the y-axis and whether an individual is a male or female is shown on the x-axis. The graph shows that men have a higher mean hourly wage then women.
 
