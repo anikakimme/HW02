@@ -19,13 +19,12 @@ terms = xaxis.keys()
 counts = xaxis.values()
 
 import matplotlib.pyplot as plt
-''' 
 fig, ax = plt.subplots()
 ax.bar(terms, counts, color =('purple'))
 plt.ylabel('Mean of Hourly Wages')
 plt.title('Figure 1. Gender Differences in Hourly Wages')
 plt.show()
-'''
+
 
 dataset2File = open('Dataset2.csv')
 dataset2Reader = csv.reader(dataset2File)
