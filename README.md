@@ -4,7 +4,7 @@ Check out the project instructions [here](https://github.com/mikeizbicki/cmc-csc
 
 ![Figure 1](Figure_1.png)
 
-My first graph uses data on hourly earnings of males and females. The greaph shows the difference between mean hourly wages for males and females and mean hourly wages is show on the y-axis. As seen by the bar graph,the bar males is taller than the bar for females, showing men have a higher mean hourly wage than women.
+My first graph uses data on hourly earnings of males and females. The graph shows the difference between mean hourly wages for males and females and mean hourly wages is show on the y-axis. As seen by the bar graph, the bar for males is taller than the bar for females so men have a higher mean hourly wage than women.
 
 This data set is from the class ECON125 at CMC. 
 
